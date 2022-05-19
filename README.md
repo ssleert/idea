@@ -16,6 +16,7 @@
 </h2>
 
 - ### create suckless json based database
+- ### create simple home page for browser
 
 <h2 align="center">
 	🍏easy🍏
