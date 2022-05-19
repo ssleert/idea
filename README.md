@@ -1,9 +1,9 @@
 <h1 align="center">
-	my list of future projects
+	👽 my list of future projects 👽
 </h1>
 
 <h2 align="center">
-	hard
+	🔥hard🔥
 </h2>
 
 - create suckless linux distribution
@@ -11,13 +11,13 @@
 - create own programming language
 
 <h2 align="center">
-	middle
+	🍊middle🍊
 </h2>
 
 - create suckless json based database
 
 <h2 align="center">
-	easy
+	🍏easy🍏
 </h2>
 
 - create own portfolio site
@@ -25,7 +25,7 @@
 - create software alternatives cheatsheet
 
 <h2 align="center">
-	useless
+	🧊useless🧊
 </h2>
 
 - create own discord bot
