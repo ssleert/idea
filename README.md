@@ -25,6 +25,7 @@
 - ### create own portfolio site
 - ### create linux user cheatsheet
 - ### create software alternatives cheatsheet
+- ### create simple git helper
 
 <h2 align="center">
 	🧊useless🧊
